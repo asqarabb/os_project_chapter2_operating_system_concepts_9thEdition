@@ -1,0 +1,1 @@
+cmd_/home/asqar/Desktop/os/SourceCode/ch2/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/asqar/Desktop/os/SourceCode/ch2/simple.ko /home/asqar/Desktop/os/SourceCode/ch2/simple.o /home/asqar/Desktop/os/SourceCode/ch2/simple.mod.o
